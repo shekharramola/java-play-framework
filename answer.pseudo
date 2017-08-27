@@ -1,0 +1,4 @@
+funcation getName(name){
+    var randomNumber= Math.floor(Math.random() * 15) + 6
+    return 'name'+randomNumber;  
+}
